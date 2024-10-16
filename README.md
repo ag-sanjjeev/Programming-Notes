@@ -26,6 +26,6 @@ It is developed for an educational purpose. It will be helpful for go through th
 
 ## &#9873; Contact
 
-If you have any questions or need further assistance, please feel free to reach me at [Email](mailto:social_text)
+If you have any questions or need further assistance, please feel free to reach me by referring [My Github Profile](https://github.com/ag-sanjjeev/)
 
 Thanks for reviewing this reference notes!
