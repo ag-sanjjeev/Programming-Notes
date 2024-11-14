@@ -6,7 +6,7 @@ A comprehensive collection of documentation, references, and important notes on 
 1. [HTML](https://github.com/ag-sanjjeev/HTML-Notes),
 2. [CSS](https://github.com/ag-sanjjeev/CSS-Notes),
 3. [JavaScript](https://github.com/ag-sanjjeev/JavaScript-Notes),
-4. [PHP](#-php-notes),
+4. [PHP](https://github.com/ag-sanjjeev/PHP-Notes),
 5. [MySQL](https://github.com/ag-sanjjeev/mysql-notes),
 6. [Bootstrap](https://github.com/ag-sanjjeev/Bootstrap-Notes),
 7. [JQuery](https://github.com/ag-sanjjeev/JQuery-Notes),
